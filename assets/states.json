@@ -1,0 +1,162 @@
+[
+  {
+    "stateCode": 1,
+    "stateName": "JAMMU AND KASHMIR"
+  },
+  {
+    "stateCode": 2,
+    "stateName": "HIMACHAL PRADESH"
+  },
+  {
+    "stateCode": 3,
+    "stateName": "PUNJAB"
+  },
+  {
+    "stateCode": 4,
+    "stateName": "CHANDIGARH"
+  },
+  {
+    "stateCode": 5,
+    "stateName": "UTTARAKHAND"
+  },
+  {
+    "stateCode": 6,
+    "stateName": "HARYANA"
+  },
+  {
+    "stateCode": 7,
+    "stateName": "DELHI"
+  },
+  {
+    "stateCode": 8,
+    "stateName": "RAJASTHAN"
+  },
+  {
+    "stateCode": 9,
+    "stateName": "UTTAR PRADESH"
+  },
+  {
+    "stateCode": 10,
+    "stateName": "BIHAR"
+  },
+  {
+    "stateCode": 11,
+    "stateName": "SIKKIM"
+  },
+  {
+    "stateCode": 12,
+    "stateName": "ARUNACHAL PRADESH"
+  },
+  {
+    "stateCode": 13,
+    "stateName": "NAGALAND"
+  },
+  {
+    "stateCode": 14,
+    "stateName": "MANIPUR"
+  },
+  {
+    "stateCode": 15,
+    "stateName": "MIZORAM"
+  },
+  {
+    "stateCode": 16,
+    "stateName": "TRIPURA"
+  },
+  {
+    "stateCode": 17,
+    "stateName": "MEGHALAYA"
+  },
+  {
+    "stateCode": 18,
+    "stateName": "ASSAM"
+  },
+  {
+    "stateCode": 19,
+    "stateName": "WEST BENGAL"
+  },
+  {
+    "stateCode": 20,
+    "stateName": "JHARKHAND"
+  },
+  {
+    "stateCode": 21,
+    "stateName": "ODISHA"
+  },
+  {
+    "stateCode": 22,
+    "stateName": "CHATTISGARH"
+  },
+  {
+    "stateCode": 23,
+    "stateName": "MADHYA PRADESH"
+  },
+  {
+    "stateCode": 24,
+    "stateName": "GUJARAT"
+  },
+  {
+    "stateCode": 25,
+    "stateName": " DAMAN AND DIU"
+  },
+  {
+    "stateCode": 26,
+    "stateName": "DADRA AND NAGAR HAVELI"
+  },
+  {
+    "stateCode": 27,
+    "stateName": "MAHARASHTRA"
+  },
+  {
+    "stateCode": 28,
+    "stateName": "ANDHRA PRADESH(BEFORE DIVISION)"
+  },
+  {
+    "stateCode": 29,
+    "stateName": "KARNATAKA"
+  },
+  {
+    "stateCode": 30,
+    "stateName": "GOA"
+  },
+  {
+    "stateCode": 31,
+    "stateName": "LAKSHADWEEP"
+  },
+  {
+    "stateCode": 32,
+    "stateName": "KERALA"
+  },
+  {
+    "stateCode": 33,
+    "stateName": "TAMIL NADU"
+  },
+  {
+    "stateCode": 34,
+    "stateName": "PUDUCHERRY"
+  },
+  {
+    "stateCode": 35,
+    "stateName": "ANDAMAN AND NICOBAR ISLANDS"
+  },
+  {
+    "stateCode": 36,
+    "stateName": "TELANGANA"
+  },
+  {
+    "stateCode": 37,
+    "stateName": "ANDHRA PRADESH"
+  },
+  {
+    "stateCode": 38,
+    "stateName": "LADAKH (NEWLY ADDED)"
+  },
+  {
+    "stateCode": 97,
+    "stateName": "OTHER TERRITORY"
+  },
+  {
+    "stateCode": 99,
+    "stateName": "CENTRE JURISDICTION"
+  }
+]
