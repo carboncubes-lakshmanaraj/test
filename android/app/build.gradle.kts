@@ -16,7 +16,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.example.states_and_taxes"
+    namespace = "com.carboncubes.subha_medicals"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = "27.0.12077973"
 

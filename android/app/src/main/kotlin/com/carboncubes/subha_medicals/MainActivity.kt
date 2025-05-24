@@ -1,4 +1,4 @@
-package com.example.states_and_taxes
+package com.carboncubes.subha_medicals
 
 import io.flutter.embedding.android.FlutterActivity
 
